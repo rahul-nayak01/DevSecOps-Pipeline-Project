@@ -40,7 +40,6 @@
     git clone https://github.com/N4si/DevSecOps-Project.git
     ```
     
-
 **Step 3: Install Docker and Run the App Using a Container:**
 
 - Set up Docker on the EC2 instance:
